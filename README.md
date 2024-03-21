@@ -17,16 +17,16 @@ For a more in-depth discussion and analysis, check out the accompanying Medium a
 
 ## Libraries and Dependencies
 This project utilizes the following libraries and frameworks:
-- Python 3.5 or higher
-- Spark for large-scale data processing
+
+
 - Pandas for data manipulation
 - NumPy for numerical operations
 - Matplotlib for data visualization
 - scikit-learn for machine learning models
 - pyspark.sql for Spark SQL operations
 - pyspark.ml for Spark's machine learning library
-![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+- Python 3.5 or higher![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Spark for large-scale data processing![](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
